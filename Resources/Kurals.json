@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "chapterNumber": 1,
+    "chapterName": "The Praise of God",
+    "tamilText": "அகர முதல எழுத்தெல்லாம் ஆதி\nபகவன் முதற்றே உலகு",
+    "englishMeaning": "As the letter A is the first of all letters, so the Eternal God is first in the world.",
+    "imageName": "kural1",
+    "audioName": "kural1"
+  },
+  {
+    "id": 2,
+    "chapterNumber": 1,
+    "chapterName": "The Praise of God",
+    "tamilText": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்\nநற்றாள் தொழாஅர் எனின்",
+    "englishMeaning": "What is the use of learning if one does not worship the feet of true wisdom?",
+    "imageName": "kural2",
+    "audioName": "kural2"
+  }
+]
