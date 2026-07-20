@@ -13,8 +13,26 @@
     "chapterNumber": 1,
     "chapterName": "The Praise of God",
     "tamilText": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்\nநற்றாள் தொழாஅர் எனின்",
-    "englishMeaning": "What is the use of learning if one does not worship the feet of true wisdom?",
+    "englishMeaning": "What is the benefit of learning if a person does not honour the source of true wisdom?",
     "imageName": "kural2",
     "audioName": "kural2"
+  },
+  {
+    "id": 11,
+    "chapterNumber": 2,
+    "chapterName": "The Excellence of Rain",
+    "tamilText": "வான்நின்று உலகம் வழங்கி வருதலால்\nதான்அமிழ்தம் என்றுணரற் பாற்று",
+    "englishMeaning": "Because rain sustains the world, it deserves to be regarded as life-giving nectar.",
+    "imageName": null,
+    "audioName": null
+  },
+  {
+    "id": 12,
+    "chapterNumber": 2,
+    "chapterName": "The Excellence of Rain",
+    "tamilText": "துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்\nதுப்பாய தூஉம் மழை",
+    "englishMeaning": "Rain produces food for those who eat and also becomes drink for them.",
+    "imageName": null,
+    "audioName": null
   }
 ]

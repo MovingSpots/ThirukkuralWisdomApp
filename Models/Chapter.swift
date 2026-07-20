@@ -7,7 +7,12 @@
 
 import Foundation
 
-struct Chapter: Identifiable {
-    let id: Int
+struct Chapter: Identifiable, Hashable {
+    let number: Int
     let name: String
+    let kurals: [Kural]
+
+    var id: Int {
+        number
+    }
 }

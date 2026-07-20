@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct ThirukkuralWisdomApp: App {
+    @StateObject private var viewModel = KuralViewModel()
+    @StateObject private var favoritesStore = FavoritesStore()
+
     var body: some Scene {
         WindowGroup {
-            HomeView()
+            MainTabView()
+                .environmentObject(viewModel)
+                .environmentObject(favoritesStore)
         }
     }
 }
